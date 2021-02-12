@@ -2,7 +2,7 @@
 
 création du site du projet d'année => essai personnel
 
-https://charlottegu.github.io/licornes/
+https://charlottegu.github.io/
 
 
 
