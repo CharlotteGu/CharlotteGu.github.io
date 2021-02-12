@@ -1,10 +1,8 @@
 # INFO-F-308-G9 site internet 
 
-création du site du projet d'année
+création du site du projet d'année => essai personnel
 
-lien =>  [1]
-
-[1] :  https://INFO-F-308-G9.github.io 
+https://charlottegu.github.io/licornes/
 
 
 
